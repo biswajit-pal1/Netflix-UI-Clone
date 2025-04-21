@@ -6,7 +6,8 @@ This is a **responsive clone of Netflix India's landing page** created using **H
 
 ## 🔍 Live Preview
 
-[🔗 View Live]([https://your-github-username.github.io/netflix-clone/](https://biswajit-pal1.github.io/Netflix-UI-Clone/))
+[🔗 View Live](https://biswajit-pal1.github.io/Netflix-UI-Clone/)
+    
 
 ---
 
